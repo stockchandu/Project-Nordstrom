@@ -14,50 +14,56 @@ Nordstrom, Inc. is an American luxury department store chain. Founded in 1901 by
 ## Screenshots of our project nordstrom .
 ### 1. Home Page .
 <p align="center">
-<img src=""/>
+<img src="https://miro.medium.com/max/1400/1*Zr3Q2IrfG7VQ_G38kNiUNA.png"/>
 </p>
 
-
-
-### 2. Signup page .
+### 2. Hover navbar .
 <p align="center">
-<img src=""/>
+<img src="https://miro.medium.com/max/1400/1*JmIpc5Ke66uhEkE5BMXLpw.png"/>
 </p>
-
 
 
 ### 3. Product page .
 <p align="center">
-<img src=""/>
+<img src="https://miro.medium.com/max/1400/1*DH3aPIoJGYCfyZtkE2vuWg.png"/>
 </p>
 
-
+### 4. Product filter .
+<p align="center">
+<img src="https://miro.medium.com/max/1400/1*lXAbYrC2tZI4O7bUdk8FQA.png"/>
+</p>
 
 ### 5. Product information page .
 <p align="center">
 
-<img src=""/>
+<img src="https://miro.medium.com/max/1400/1*s05Zt9UXx76tMiaksODADQ.png"/>
 
 </p>
 
-### 6. Product filter .
+
+### 6. Cart page .
+Before going to add to the cart, you should be authenticated means you need to create an account in order to see the cart page.
 <p align="center">
 
-<img src=""/>
+<img src="https://miro.medium.com/max/1400/1*TudB6OcZvDX0mIIF9j-XfA.png"/>
+ <img src="https://miro.medium.com/max/1400/1*yOy082gXiH72Wq8XBoeqhg.png"/>
+ 
+  <img src="https://miro.medium.com/max/1400/1*8cS3d9SS12zpZtHwr7JhQA.png"/>
 
 </p>
 
-### 7. Cart page .
+### 7. Payment page .
 <p align="center">
 
-<img src=""/>
+<img src="https://miro.medium.com/max/1400/1*Ia_QmUj-d2IZv09nx1WWGw.png"/>
 
 </p>
 
-### 8. Payment page .
+
+### 8. Success page .
 <p align="center">
 
-<img src=""/>
+<img src="https://miro.medium.com/max/1400/1*aBMfzz2PUEDgYHNotfEgSg.png"/>
 
 </p>
 

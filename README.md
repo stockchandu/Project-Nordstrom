@@ -90,7 +90,7 @@ Before going to add to the cart, you should be authenticated means you need to c
 * Keshav Mahanthi (UI Designer) .
 * Yashraj Singh (UI Designer) .
 
-| Read the full blog  | [Medium]() |
+| Read the full blog  | [Medium](https://medium.com/@malikchandan926/project-nordstrom-within-5-days-using-react-js-cloned-e3298d9dc5ad) |
 | --- | ---|
 | Visit the web app  | [Nordstrom]() |
 
